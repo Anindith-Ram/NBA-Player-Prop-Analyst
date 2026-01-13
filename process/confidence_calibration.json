@@ -1,0 +1,99 @@
+{
+  "confidence_buckets": {
+    "1": {
+      "total": 0,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "2": {
+      "total": 0,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "3": {
+      "total": 0,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "4": {
+      "total": 0,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "5": {
+      "total": 5,
+      "correct": 4,
+      "accuracy": 80.0
+    },
+    "6": {
+      "total": 45,
+      "correct": 26,
+      "accuracy": 57.77777777777777
+    },
+    "7": {
+      "total": 82,
+      "correct": 50,
+      "accuracy": 60.97560975609756
+    },
+    "8": {
+      "total": 11,
+      "correct": 7,
+      "accuracy": 63.63636363636363
+    },
+    "9": {
+      "total": 5,
+      "correct": 5,
+      "accuracy": 100.0
+    },
+    "10": {
+      "total": 0,
+      "correct": 0,
+      "accuracy": 0.0
+    }
+  },
+  "tier_calibration": {
+    "STAR": {
+      "total": 93,
+      "correct": 53,
+      "accuracy": 56.98924731182796
+    },
+    "SECONDARY": {
+      "total": 36,
+      "correct": 25,
+      "accuracy": 69.44444444444444
+    },
+    "ROTATION": {
+      "total": 16,
+      "correct": 13,
+      "accuracy": 81.25
+    },
+    "ROLE": {
+      "total": 3,
+      "correct": 1,
+      "accuracy": 33.33333333333333
+    }
+  },
+  "prop_calibration": {
+    "POINTS": {
+      "total": 79,
+      "correct": 48,
+      "accuracy": 60.75949367088608
+    },
+    "REBOUNDS": {
+      "total": 28,
+      "correct": 17,
+      "accuracy": 60.71428571428571
+    },
+    "ASSISTS": {
+      "total": 20,
+      "correct": 14,
+      "accuracy": 70.0
+    },
+    "FG3M": {
+      "total": 21,
+      "correct": 13,
+      "accuracy": 61.904761904761905
+    }
+  },
+  "last_updated": "2025-12-03T18:54:45.666321"
+}

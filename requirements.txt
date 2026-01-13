@@ -1,0 +1,22 @@
+# NBA Player Prop Analyst - Dependencies
+# =======================================
+
+# Core Data Processing
+pyspark>=3.5.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# API Clients
+requests>=2.31.0
+google-generativeai>=0.3.0
+
+# Utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+
+# Web Scraping (for injury reports)
+beautifulsoup4>=4.12.0
+
+# Configuration
+python-dotenv>=1.0.0
+

@@ -1,0 +1,2478 @@
+[
+  {
+    "id": "pcs_20251202153011",
+    "date": "2025-12-02T15:30:11.330078",
+    "parlay_size": 2,
+    "theme": "High confidence scorers in favorable matchups",
+    "correlation_pattern": "Star Power Bias (Over-reliance on standard lines for superstars)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed due to a lack of margin for error on standard market lines, resulting in a 'hook' loss on Curry and a shortfall on Giannis's high total.",
+    "correction": "Use alternative lines to buy points down on high-volume superstars in parlays (e.g., 25+ instead of O32.5) to mitigate variance.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "POINTS",
+          "line": 32.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202153011",
+    "date": "2025-12-02T15:30:11.330078",
+    "parlay_size": 2,
+    "theme": "High confidence scorers in favorable matchups",
+    "correlation_pattern": "Star Power Bias (Over-reliance on standard lines for superstars)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed due to a lack of margin for error on standard market lines, resulting in a 'hook' loss on Curry and a shortfall on Giannis's high total.",
+    "correction": "Use alternative lines to buy points down on high-volume superstars in parlays (e.g., 25+ instead of O32.5) to mitigate variance.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "POINTS",
+          "line": 32.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202153031",
+    "date": "2025-12-02T15:30:31.049420",
+    "parlay_size": 3,
+    "theme": "Exploiting the weakest defensive rankings on the slate",
+    "correlation_pattern": "Thematic over-concentration on high-usage scoring 'Overs' across unrelated games",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The strategy of targeting weak defenses resulted in inflated lines for superstars, leading to a narrow 'hook' loss on Curry and a volume shortfall for Giannis despite the favorable matchups.",
+    "correction": "When betting on stars against bottom-ranked defenses, buy down the line (alt lines) to remove the hook or secure a safer floor instead of taking the book's inflated standard total.",
+    "context": {
+      "legs": [
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 7.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 11.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "POINTS",
+          "line": 32.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202153031",
+    "date": "2025-12-02T15:30:31.049420",
+    "parlay_size": 3,
+    "theme": "Exploiting the weakest defensive rankings on the slate",
+    "correlation_pattern": "Thematic over-concentration on high-usage scoring 'Overs' across unrelated games",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The strategy of targeting weak defenses resulted in inflated lines for superstars, leading to a narrow 'hook' loss on Curry and a volume shortfall for Giannis despite the favorable matchups.",
+    "correction": "When betting on stars against bottom-ranked defenses, buy down the line (alt lines) to remove the hook or secure a safer floor instead of taking the book's inflated standard total.",
+    "context": {
+      "legs": [
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 7.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 11.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "POINTS",
+          "line": 32.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202153043",
+    "date": "2025-12-02T15:30:43.321693",
+    "parlay_size": 3,
+    "theme": "Single-player correlation in a high-pace environment",
+    "correlation_pattern": "Oversaturation of independent variable clusters (P+R+A) on standard lines",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "Relying on a single player to clear standard lines in Points, Rebounds, and Assists simultaneously introduces excessive variance, as a slight dip in usage or a blowout scenario often results in at least one category falling short.",
+    "correction": "When targeting a comprehensive stat-stuffing performance (P+R+A) in a Same Game Parlay, use alternate lines to lower the totals or limit the selection to the two strongest correlated categories.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "POINTS",
+          "line": 32.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 11.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 11.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 8.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202153043",
+    "date": "2025-12-02T15:30:43.321693",
+    "parlay_size": 3,
+    "theme": "Single-player correlation in a high-pace environment",
+    "correlation_pattern": "Oversaturation of independent variable clusters (P+R+A) on standard lines",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "Relying on a single player to clear standard lines in Points, Rebounds, and Assists simultaneously introduces excessive variance, as a slight dip in usage or a blowout scenario often results in at least one category falling short.",
+    "correction": "When targeting a comprehensive stat-stuffing performance (P+R+A) in a Same Game Parlay, use alternate lines to lower the totals or limit the selection to the two strongest correlated categories.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "POINTS",
+          "line": 32.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 11.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 11.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 8.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202154130",
+    "date": "2025-12-02T15:41:30.169488",
+    "parlay_size": 3,
+    "theme": "Fading offense against elite defense while attacking soft defense.",
+    "correlation_pattern": "Uncorrelated Independent Variance",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed primarily due to a 'hook' loss on the first leg where the actual result exceeded the prediction by exactly 0.5 points, compounded by a star player falling just short of a precise, high-volume line.",
+    "correction": "Utilize alternative lines to buy a half-point safety margin (e.g., betting Under 16.5 instead of 15.5) on role player props to avoid losing by the hook.",
+    "context": {
+      "legs": [
+        {
+          "player": "Nickeil Alexander-Walker",
+          "prop": "POINTS",
+          "line": 15.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 16.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "FG3M",
+          "line": 3.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 30.33,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 28.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202154130",
+    "date": "2025-12-02T15:41:30.169488",
+    "parlay_size": 3,
+    "theme": "Fading offense against elite defense while attacking soft defense.",
+    "correlation_pattern": "Uncorrelated Independent Variance",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed primarily due to a 'hook' loss on the first leg where the actual result exceeded the prediction by exactly 0.5 points, compounded by a star player falling just short of a precise, high-volume line.",
+    "correction": "Utilize alternative lines to buy a half-point safety margin (e.g., betting Under 16.5 instead of 15.5) on role player props to avoid losing by the hook.",
+    "context": {
+      "legs": [
+        {
+          "player": "Nickeil Alexander-Walker",
+          "prop": "POINTS",
+          "line": 15.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 16.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "FG3M",
+          "line": 3.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 30.33,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 28.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202154155",
+    "date": "2025-12-02T15:41:55.339259",
+    "parlay_size": 4,
+    "theme": "Volume accumulation against defenses ranked 20th or worse.",
+    "correlation_pattern": "Single-player dependency (stacking multiple props on one athlete)",
+    "outcome": "LOSS",
+    "legs_hit": 2,
+    "total_legs": 4,
+    "insight": "The parlay failed to capitalize on the analysis because half of the legs were dependent on a single player (LaMelo Ball) who did not play.",
+    "correction": "Verify starting lineups and injury reports immediately before placing bets to ensure player availability.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "REBOUNDS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 8.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Miles Bridges",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.6,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 4.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202154155",
+    "date": "2025-12-02T15:41:55.339259",
+    "parlay_size": 4,
+    "theme": "Volume accumulation against defenses ranked 20th or worse.",
+    "correlation_pattern": "Single-player dependency (stacking multiple props on one athlete)",
+    "outcome": "LOSS",
+    "legs_hit": 2,
+    "total_legs": 4,
+    "insight": "The parlay failed to capitalize on the analysis because half of the legs were dependent on a single player (LaMelo Ball) who did not play.",
+    "correction": "Verify starting lineups and injury reports immediately before placing bets to ensure player availability.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "REBOUNDS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 8.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Miles Bridges",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.6,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 4.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202155317",
+    "date": "2025-12-02T15:53:17.104137",
+    "parlay_size": 3,
+    "theme": "Positive correlation scoring and rebounding in soft matchups",
+    "correlation_pattern": "Intra-player dependency (Points + 3PM)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to over-exposure to a single player's offensive output, causing two legs to lose simultaneously when Jalen Brunson had an off-night.",
+    "correction": "Avoid stacking multiple dependent scoring props (like Points and 3PM) for the same player within a single parlay to minimize the impact of one player struggling.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jalen Brunson",
+          "prop": "POINTS",
+          "line": 28.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 16.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 1.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 11.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 13.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202155317",
+    "date": "2025-12-02T15:53:17.104137",
+    "parlay_size": 3,
+    "theme": "Positive correlation scoring and rebounding in soft matchups",
+    "correlation_pattern": "Intra-player dependency (Points + 3PM)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to over-exposure to a single player's offensive output, causing two legs to lose simultaneously when Jalen Brunson had an off-night.",
+    "correction": "Avoid stacking multiple dependent scoring props (like Points and 3PM) for the same player within a single parlay to minimize the impact of one player struggling.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jalen Brunson",
+          "prop": "POINTS",
+          "line": 28.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 16.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 1.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 11.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 13.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202155333",
+    "date": "2025-12-02T15:53:33.110797",
+    "parlay_size": 3,
+    "theme": "Exploiting weak perimeter defense across multiple games",
+    "correlation_pattern": "False Consistency; assuming independent weak defensive matchups across different games guarantees statistical efficiency in high-variance shooting categories.",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay over-indexed on high-variance 3-point shooting props (FG3M), failing to account for the fact that volume scorers often have poor shooting nights even against weak perimeter defenses.",
+    "correction": "Limit high-variance specific props like 'Made 3-Pointers' to a maximum of one leg per parlay, replacing others with volume-based stats like 'Points' or 'Assists' to reduce volatility.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 1.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "FG3M",
+          "line": 0.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 1.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Jaylen Brown",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 0.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202155333",
+    "date": "2025-12-02T15:53:33.110797",
+    "parlay_size": 3,
+    "theme": "Exploiting weak perimeter defense across multiple games",
+    "correlation_pattern": "False Consistency; assuming independent weak defensive matchups across different games guarantees statistical efficiency in high-variance shooting categories.",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay over-indexed on high-variance 3-point shooting props (FG3M), failing to account for the fact that volume scorers often have poor shooting nights even against weak perimeter defenses.",
+    "correction": "Limit high-variance specific props like 'Made 3-Pointers' to a maximum of one leg per parlay, replacing others with volume-based stats like 'Points' or 'Assists' to reduce volatility.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 1.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "FG3M",
+          "line": 0.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 1.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Jaylen Brown",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 0.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202185736",
+    "date": "2025-12-02T18:57:36.620815",
+    "parlay_size": 2,
+    "theme": "High-usage stars facing bottom-tier defenses (Rank 20+)",
+    "correlation_pattern": "None (Independent Events)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed due to a combination of a late scratch (DNP) voiding one leg and the remaining leg losing by a devastating 0.5 point 'hook' margin.",
+    "correction": "Verify injury reports immediately before lock to avoid DNPs and utilize alternative lines (buying points) to eliminate half-point hooks on sharp markets.",
+    "context": {
+      "legs": [
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202185736",
+    "date": "2025-12-02T18:57:36.620815",
+    "parlay_size": 2,
+    "theme": "High-usage stars facing bottom-tier defenses (Rank 20+)",
+    "correlation_pattern": "None (Independent Events)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed due to a combination of a late scratch (DNP) voiding one leg and the remaining leg losing by a devastating 0.5 point 'hook' margin.",
+    "correction": "Verify injury reports immediately before lock to avoid DNPs and utilize alternative lines (buying points) to eliminate half-point hooks on sharp markets.",
+    "context": {
+      "legs": [
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202185756",
+    "date": "2025-12-02T18:57:56.328265",
+    "parlay_size": 3,
+    "theme": "Stacking Independent Overs against Defenses Ranked > 20",
+    "correlation_pattern": "None (Independent Events); failure was driven by singular variance and availability rather than negative correlation between legs.",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to a combination of a late injury scratch (DNP) voiding a leg and a high-variance half-point 'hook' loss on the Curry point total.",
+    "correction": "Monitor injury reports closer to game time to avoid DNPs and consider using alternate lines or buying a half-point to protect against tight variance losses.",
+    "context": {
+      "legs": [
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 7.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 11.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202185756",
+    "date": "2025-12-02T18:57:56.328265",
+    "parlay_size": 3,
+    "theme": "Stacking Independent Overs against Defenses Ranked > 20",
+    "correlation_pattern": "None (Independent Events); failure was driven by singular variance and availability rather than negative correlation between legs.",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to a combination of a late injury scratch (DNP) voiding a leg and a high-variance half-point 'hook' loss on the Curry point total.",
+    "correction": "Monitor injury reports closer to game time to avoid DNPs and consider using alternate lines or buying a half-point to protect against tight variance losses.",
+    "context": {
+      "legs": [
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 24.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 7.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 11.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202185812",
+    "date": "2025-12-02T18:58:12.531614",
+    "parlay_size": 2,
+    "theme": "Isolating non-scoring production in a high-pace matchup",
+    "correlation_pattern": "Single-Player Dependency",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed to activate because the specific player targeted was a scratch (DNP), rendering the handicapping of the high-pace matchup irrelevant.",
+    "correction": "Wait for official lineup confirmation or injury report updates before placing wagers on players with potential 'questionable' tags or load management risks.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 11.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202185812",
+    "date": "2025-12-02T18:58:12.531614",
+    "parlay_size": 2,
+    "theme": "Isolating non-scoring production in a high-pace matchup",
+    "correlation_pattern": "Single-Player Dependency",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed to activate because the specific player targeted was a scratch (DNP), rendering the handicapping of the high-pace matchup irrelevant.",
+    "correction": "Wait for official lineup confirmation or injury report updates before placing wagers on players with potential 'questionable' tags or load management risks.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 11.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202190637",
+    "date": "2025-12-02T19:06:37.434310",
+    "parlay_size": 3,
+    "theme": "Correlated teammates exploiting a soft defensive matchup.",
+    "correlation_pattern": "Star Player Availability Dependency",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed because the primary facilitator, LaMelo Ball, was a late scratch (DNP), which nullified the assist-to-scorer correlation thesis.",
+    "correction": "Verify injury reports closely before lock and avoid stacking multiple legs on players listed as 'Questionable' or 'Game Time Decision'.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 8.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Miles Bridges",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "REBOUNDS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251202190637",
+    "date": "2025-12-02T19:06:37.434310",
+    "parlay_size": 3,
+    "theme": "Correlated teammates exploiting a soft defensive matchup.",
+    "correlation_pattern": "Star Player Availability Dependency",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed because the primary facilitator, LaMelo Ball, was a late scratch (DNP), which nullified the assist-to-scorer correlation thesis.",
+    "correction": "Verify injury reports closely before lock and avoid stacking multiple legs on players listed as 'Questionable' or 'Game Time Decision'.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 8.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Miles Bridges",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 8,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "REBOUNDS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203124729",
+    "date": "2025-12-03T12:47:29.464530",
+    "parlay_size": 3,
+    "theme": "High-usage stars trading baskets in a projected close game.",
+    "correlation_pattern": "Opposing Star Overs (Game Script Dependency)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed primarily because the 'stars trading baskets' game script collapsed when Kawhi Leonard did not play, which likely altered the game pace and defensive coverage on Devin Booker.",
+    "correction": "Confirm active status and avoid early bets on players with a history of load management (DNP risk) when building game-script dependent parlays.",
+    "context": {
+      "legs": [
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 28.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Kawhi Leonard",
+          "prop": "POINTS",
+          "line": 24.33,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "REBOUNDS",
+          "line": 3.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 6.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203124729",
+    "date": "2025-12-03T12:47:29.464530",
+    "parlay_size": 3,
+    "theme": "High-usage stars trading baskets in a projected close game.",
+    "correlation_pattern": "Opposing Star Overs (Game Script Dependency)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed primarily because the 'stars trading baskets' game script collapsed when Kawhi Leonard did not play, which likely altered the game pace and defensive coverage on Devin Booker.",
+    "correction": "Confirm active status and avoid early bets on players with a history of load management (DNP risk) when building game-script dependent parlays.",
+    "context": {
+      "legs": [
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 28.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Kawhi Leonard",
+          "prop": "POINTS",
+          "line": 24.33,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "REBOUNDS",
+          "line": 3.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 6.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203125749",
+    "date": "2025-12-03T12:57:49.932714",
+    "parlay_size": 2,
+    "theme": "Correlated production based on high usage and close spread",
+    "correlation_pattern": "Single-Player Volume Dependency",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "Stacking multiple volume-dependent 'Over' props on a single player created a fatal point of failure when Banchero struggled offensively.",
+    "correction": "Avoid correlating multiple production stats (Points + Assists) for the same player unless the specific defensive matchup historically yields high usage floors.",
+    "context": {
+      "legs": [
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 23.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 15.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "ASSISTS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203125749",
+    "date": "2025-12-03T12:57:49.932714",
+    "parlay_size": 2,
+    "theme": "Correlated production based on high usage and close spread",
+    "correlation_pattern": "Single-Player Volume Dependency",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "Stacking multiple volume-dependent 'Over' props on a single player created a fatal point of failure when Banchero struggled offensively.",
+    "correction": "Avoid correlating multiple production stats (Points + Assists) for the same player unless the specific defensive matchup historically yields high usage floors.",
+    "context": {
+      "legs": [
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 23.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 15.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "ASSISTS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203125807",
+    "date": "2025-12-03T12:58:07.590330",
+    "parlay_size": 3,
+    "theme": "Diversified high-confidence plays minimizing blowout risk",
+    "correlation_pattern": "Independent Variance Accumulation",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed primarily due to the high variance of betting a 'perfect' outcome (Under 0.5 3PM) on a superstar with high usage, combined with a significant floor-game performance from a primary scorer.",
+    "correction": "Avoid betting 'Under 0.5' props on three-pointers for high-usage players regardless of their shooting percentage, as a single random make destroys the leg.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jarrett Allen",
+          "prop": "POINTS",
+          "line": 12.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 16.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "FG3M",
+          "line": 0.86,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 1.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 23.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 15.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203125807",
+    "date": "2025-12-03T12:58:07.590330",
+    "parlay_size": 3,
+    "theme": "Diversified high-confidence plays minimizing blowout risk",
+    "correlation_pattern": "Independent Variance Accumulation",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed primarily due to the high variance of betting a 'perfect' outcome (Under 0.5 3PM) on a superstar with high usage, combined with a significant floor-game performance from a primary scorer.",
+    "correction": "Avoid betting 'Under 0.5' props on three-pointers for high-usage players regardless of their shooting percentage, as a single random make destroys the leg.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jarrett Allen",
+          "prop": "POINTS",
+          "line": 12.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 16.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "FG3M",
+          "line": 0.86,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 1.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 23.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 15.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203130744",
+    "date": "2025-12-03T13:07:44.977272",
+    "parlay_size": 3,
+    "theme": "Volume scorers facing bottom-tier defensive efficiency rankings.",
+    "correlation_pattern": "Thematic correlation of 'Points Overs' created a single point of failure where defensive adjustments or slower pace caused all legs to miss simultaneously.",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "Reliance on defensive efficiency metrics failed to account for inflated lines and variance, resulting in a sweep of 'Unders' even for volume scorers.",
+    "correction": "Diversify prop types (e.g., mix assists or rebounds with points) rather than stacking three 'Points Over' legs which all share the same dependency on high game pace and shooting efficiency.",
+    "context": {
+      "legs": [
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 30.22,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 21.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Stephon Castle",
+          "prop": "POINTS",
+          "line": 16.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 16.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Jarrett Allen",
+          "prop": "POINTS",
+          "line": 14.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 11.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203130744",
+    "date": "2025-12-03T13:07:44.977272",
+    "parlay_size": 3,
+    "theme": "Volume scorers facing bottom-tier defensive efficiency rankings.",
+    "correlation_pattern": "Thematic correlation of 'Points Overs' created a single point of failure where defensive adjustments or slower pace caused all legs to miss simultaneously.",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "Reliance on defensive efficiency metrics failed to account for inflated lines and variance, resulting in a sweep of 'Unders' even for volume scorers.",
+    "correction": "Diversify prop types (e.g., mix assists or rebounds with points) rather than stacking three 'Points Over' legs which all share the same dependency on high game pace and shooting efficiency.",
+    "context": {
+      "legs": [
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 30.22,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 21.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Stephon Castle",
+          "prop": "POINTS",
+          "line": 16.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 16.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Jarrett Allen",
+          "prop": "POINTS",
+          "line": 14.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 11.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203130815",
+    "date": "2025-12-03T13:08:15.290487",
+    "parlay_size": 3,
+    "theme": "Diversified stat categories to avoid volume cannibalization.",
+    "correlation_pattern": "Independent Variance; while diversifying categories avoids cannibalization, it exposes the parlay to isolated failure points in separate game scripts without any positive correlation to buoy the results.",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to a significant underperformance by the star anchor on an inflated point total combined with a narrow half-point miss on a rookie's rebounding prop.",
+    "correction": "Avoid taking standard 'Over' lines on star players when the projection exceeds 30 points; prioritize alternate lines or 'ladders' to create a buffer against average scoring nights.",
+    "context": {
+      "legs": [
+        {
+          "player": "Stephon Castle",
+          "prop": "REBOUNDS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 30.22,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 21.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Harrison Barnes",
+          "prop": "FG3M",
+          "line": 1.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203130815",
+    "date": "2025-12-03T13:08:15.290487",
+    "parlay_size": 3,
+    "theme": "Diversified stat categories to avoid volume cannibalization.",
+    "correlation_pattern": "Independent Variance; while diversifying categories avoids cannibalization, it exposes the parlay to isolated failure points in separate game scripts without any positive correlation to buoy the results.",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to a significant underperformance by the star anchor on an inflated point total combined with a narrow half-point miss on a rookie's rebounding prop.",
+    "correction": "Avoid taking standard 'Over' lines on star players when the projection exceeds 30 points; prioritize alternate lines or 'ladders' to create a buffer against average scoring nights.",
+    "context": {
+      "legs": [
+        {
+          "player": "Stephon Castle",
+          "prop": "REBOUNDS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 30.22,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 21.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Harrison Barnes",
+          "prop": "FG3M",
+          "line": 1.5,
+          "prediction": "OVER",
+          "confidence": 9,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203131811",
+    "date": "2025-12-03T13:18:11.684422",
+    "parlay_size": 3,
+    "theme": "Diversified stat categories using the highest confidence (7/10) plays available.",
+    "correlation_pattern": "Implicit Low-Scoring Script (stacking multiple player Unders creates a dependency on a low-scoring or inefficient game environment)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The strategy over-relied on fading high-usage starters (Brunson and Bridges) with 'Under' props, which failed when the game pace or volume allowed them to exceed projections despite the diversified categories.",
+    "correction": "Limit 'Under' props on star players to a maximum of one leg per parlay unless explicitly correlating with a Game Total Under.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "Mikal Bridges",
+          "prop": "ASSISTS",
+          "line": 3.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 5.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "Cade Cunningham",
+          "prop": "ASSISTS",
+          "line": 9.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 11.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203131811",
+    "date": "2025-12-03T13:18:11.684422",
+    "parlay_size": 3,
+    "theme": "Diversified stat categories using the highest confidence (7/10) plays available.",
+    "correlation_pattern": "Implicit Low-Scoring Script (stacking multiple player Unders creates a dependency on a low-scoring or inefficient game environment)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The strategy over-relied on fading high-usage starters (Brunson and Bridges) with 'Under' props, which failed when the game pace or volume allowed them to exceed projections despite the diversified categories.",
+    "correction": "Limit 'Under' props on star players to a maximum of one leg per parlay unless explicitly correlating with a Game Total Under.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jalen Brunson",
+          "prop": "FG3M",
+          "line": 2.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 3.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "Mikal Bridges",
+          "prop": "ASSISTS",
+          "line": 3.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 5.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        },
+        {
+          "player": "Cade Cunningham",
+          "prop": "ASSISTS",
+          "line": 9.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 11.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203135611",
+    "date": "2025-12-03T13:56:11.967731",
+    "parlay_size": 3,
+    "theme": "Mixing superstar scoring floors with a high-confidence mechanic fade.",
+    "correlation_pattern": "Independent Variable Accumulation (Multiple Scoring Overs)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed because it treated superstar scoring averages as safe floors, failing to account for high-variance shooting nights (Curry's 11 points) which disproportionately wreck multi-leg overs.",
+    "correction": "Avoid constructing parlays solely on multiple high-volume scoring overs; instead, pair one scoring target with defensive or efficiency-based props to reduce exposure to pure shooting variance.",
+    "context": {
+      "legs": [
+        {
+          "player": "Scottie Barnes",
+          "prop": "FG3M",
+          "line": 1.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 0.0,
+          "actual_outcome": "UNDER",
+          "hit": true
+        },
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 22.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 11.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Jaylen Brown",
+          "prop": "POINTS",
+          "line": 27.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203135611",
+    "date": "2025-12-03T13:56:11.967731",
+    "parlay_size": 3,
+    "theme": "Mixing superstar scoring floors with a high-confidence mechanic fade.",
+    "correlation_pattern": "Independent Variable Accumulation (Multiple Scoring Overs)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed because it treated superstar scoring averages as safe floors, failing to account for high-variance shooting nights (Curry's 11 points) which disproportionately wreck multi-leg overs.",
+    "correction": "Avoid constructing parlays solely on multiple high-volume scoring overs; instead, pair one scoring target with defensive or efficiency-based props to reduce exposure to pure shooting variance.",
+    "context": {
+      "legs": [
+        {
+          "player": "Scottie Barnes",
+          "prop": "FG3M",
+          "line": 1.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 0.0,
+          "actual_outcome": "UNDER",
+          "hit": true
+        },
+        {
+          "player": "Stephen Curry",
+          "prop": "POINTS",
+          "line": 22.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 11.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Jaylen Brown",
+          "prop": "POINTS",
+          "line": 27.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 24.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203140512",
+    "date": "2025-12-03T14:05:12.753859",
+    "parlay_size": 3,
+    "theme": "Exploiting bottom-tier defensive efficiency rankings (20+) using varied prop types.",
+    "correlation_pattern": "High exposure to star player availability variance (Load Management)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed to capitalize on the handicap because two of the three legs resulted in 'Did Not Play' outcomes, neutralizing the multi-leg structure despite the successful read on Avdija.",
+    "correction": "Wait for confirmed starting lineups or official injury reports before betting on player props to avoid voided legs caused by late scratches or load management.",
+    "context": {
+      "legs": [
+        {
+          "player": "Deni Avdija",
+          "prop": "POINTS",
+          "line": 25.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 32.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "FG3M",
+          "line": 3.33,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203140512",
+    "date": "2025-12-03T14:05:12.753859",
+    "parlay_size": 3,
+    "theme": "Exploiting bottom-tier defensive efficiency rankings (20+) using varied prop types.",
+    "correlation_pattern": "High exposure to star player availability variance (Load Management)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed to capitalize on the handicap because two of the three legs resulted in 'Did Not Play' outcomes, neutralizing the multi-leg structure despite the successful read on Avdija.",
+    "correction": "Wait for confirmed starting lineups or official injury reports before betting on player props to avoid voided legs caused by late scratches or load management.",
+    "context": {
+      "legs": [
+        {
+          "player": "Deni Avdija",
+          "prop": "POINTS",
+          "line": 25.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 32.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "LaMelo Ball",
+          "prop": "FG3M",
+          "line": 3.33,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203140531",
+    "date": "2025-12-03T14:05:31.701832",
+    "parlay_size": 3,
+    "theme": "Balanced exposure combining high-usage offense with a statistically supported star fade.",
+    "correlation_pattern": "Independent Ceiling Variance",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay correctly identified the star fade on Booker but failed because it anchored that win to two high-variance volume 'Overs' that required peak efficiency from Brown and Banchero.",
+    "correction": "When capitalizing on a high-confidence 'Under', avoid adding multiple standard-line 'Overs' to the slip; instead, utilize alternate lines to lower the required floor for the offensive legs.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jaylen Brown",
+          "prop": "POINTS",
+          "line": 26.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 19.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 7.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 28.36,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203140531",
+    "date": "2025-12-03T14:05:31.701832",
+    "parlay_size": 3,
+    "theme": "Balanced exposure combining high-usage offense with a statistically supported star fade.",
+    "correlation_pattern": "Independent Ceiling Variance",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay correctly identified the star fade on Booker but failed because it anchored that win to two high-variance volume 'Overs' that required peak efficiency from Brown and Banchero.",
+    "correction": "When capitalizing on a high-confidence 'Under', avoid adding multiple standard-line 'Overs' to the slip; instead, utilize alternate lines to lower the required floor for the offensive legs.",
+    "context": {
+      "legs": [
+        {
+          "player": "Jaylen Brown",
+          "prop": "POINTS",
+          "line": 26.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 19.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 7.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 28.36,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": 26.0,
+          "actual_outcome": "UNDER",
+          "hit": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203182520",
+    "date": "2025-12-03T18:25:20.628953",
+    "parlay_size": 2,
+    "theme": "Anchored by highest confidence play and defensive exploitation",
+    "correlation_pattern": "None (Independent events)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay effectively reduced to a single straight bet due to the DNP, which then failed by the narrowest margin (the hook) on a low-volume stat.",
+    "correction": "On low-total props (lines under 5.0), utilize alternative lines to buy the half-point (e.g., 4+ instead of Over 4.5) to turn hooks into pushes or hits.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Shai Gilgeous-Alexander",
+          "prop": "REBOUNDS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203182520",
+    "date": "2025-12-03T18:25:20.628953",
+    "parlay_size": 2,
+    "theme": "Anchored by highest confidence play and defensive exploitation",
+    "correlation_pattern": "None (Independent events)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay effectively reduced to a single straight bet due to the DNP, which then failed by the narrowest margin (the hook) on a low-volume stat.",
+    "correction": "On low-total props (lines under 5.0), utilize alternative lines to buy the half-point (e.g., 4+ instead of Over 4.5) to turn hooks into pushes or hits.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Shai Gilgeous-Alexander",
+          "prop": "REBOUNDS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203182539",
+    "date": "2025-12-03T18:25:39.879046",
+    "parlay_size": 3,
+    "theme": "Diversified categories avoiding volume cannibalization",
+    "correlation_pattern": "Independent Event Variance",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to a critical oversight of player availability (LaMelo Ball DNP) and a significant underestimation of Aaron Gordon's scoring volume relative to his line.",
+    "correction": "Always verify official injury reports and starting lineups 10 minutes prior to lock to avoid DNP voids, and avoid betting 'Unders' on high-efficiency interior scorers without a specific defensive mismatch.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Luka Don\u010di\u0107",
+          "prop": "REBOUNDS",
+          "line": 8.89,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 9.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Aaron Gordon",
+          "prop": "POINTS",
+          "line": 16.5,
+          "prediction": "UNDER",
+          "confidence": 6,
+          "actual": 23.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203182539",
+    "date": "2025-12-03T18:25:39.879046",
+    "parlay_size": 3,
+    "theme": "Diversified categories avoiding volume cannibalization",
+    "correlation_pattern": "Independent Event Variance",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay failed due to a critical oversight of player availability (LaMelo Ball DNP) and a significant underestimation of Aaron Gordon's scoring volume relative to his line.",
+    "correction": "Always verify official injury reports and starting lineups 10 minutes prior to lock to avoid DNP voids, and avoid betting 'Unders' on high-efficiency interior scorers without a specific defensive mismatch.",
+    "context": {
+      "legs": [
+        {
+          "player": "LaMelo Ball",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Luka Don\u010di\u0107",
+          "prop": "REBOUNDS",
+          "line": 8.89,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 9.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Aaron Gordon",
+          "prop": "POINTS",
+          "line": 16.5,
+          "prediction": "UNDER",
+          "confidence": 6,
+          "actual": 23.0,
+          "actual_outcome": "OVER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203182558",
+    "date": "2025-12-03T18:25:58.413667",
+    "parlay_size": 3,
+    "theme": "Non-scoring value props from high-usage superstars",
+    "correlation_pattern": "Independent Event Volatility (assuming high usage rate guarantees production across all stat categories simultaneously)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "Relying on three separate primary scorers to clear overs on secondary stats (rebounds/assists) failed because game scripts often force superstars to prioritize scoring over playmaking or rebounding.",
+    "correction": "Avoid constructing 3+ leg parlays consisting entirely of medium-confidence (6/10) legs on superstar peripheral stats; limit these selections to single bets or pair them with high-confidence role player props.",
+    "context": {
+      "legs": [
+        {
+          "player": "Luka Don\u010di\u0107",
+          "prop": "REBOUNDS",
+          "line": 8.89,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 9.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Shai Gilgeous-Alexander",
+          "prop": "REBOUNDS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 5.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203182558",
+    "date": "2025-12-03T18:25:58.413667",
+    "parlay_size": 3,
+    "theme": "Non-scoring value props from high-usage superstars",
+    "correlation_pattern": "Independent Event Volatility (assuming high usage rate guarantees production across all stat categories simultaneously)",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "Relying on three separate primary scorers to clear overs on secondary stats (rebounds/assists) failed because game scripts often force superstars to prioritize scoring over playmaking or rebounding.",
+    "correction": "Avoid constructing 3+ leg parlays consisting entirely of medium-confidence (6/10) legs on superstar peripheral stats; limit these selections to single bets or pair them with high-confidence role player props.",
+    "context": {
+      "legs": [
+        {
+          "player": "Luka Don\u010di\u0107",
+          "prop": "REBOUNDS",
+          "line": 8.89,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 9.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Shai Gilgeous-Alexander",
+          "prop": "REBOUNDS",
+          "line": 4.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 4.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "ASSISTS",
+          "line": 6.5,
+          "prediction": "OVER",
+          "confidence": 6,
+          "actual": 5.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203184006",
+    "date": "2025-12-03T18:40:06.753211",
+    "parlay_size": 3,
+    "theme": "Capitalizing on defensive extremes: fading stars vs elite defenses while backing stars vs soft defenses.",
+    "correlation_pattern": "Dependency on star player availability",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed to generate a result because every targeted player was a scratch (DNP), rendering the statistical analysis irrelevant.",
+    "correction": "Wait for confirmed starting lineups and official injury reports before placing player prop parlays to ensure participation.",
+    "context": {
+      "legs": [
+        {
+          "player": "Cade Cunningham",
+          "prop": "POINTS",
+          "line": 27.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Cade Cunningham",
+          "prop": "ASSISTS",
+          "line": 9.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Jalen Brunson",
+          "prop": "POINTS",
+          "line": 28.0,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203184006",
+    "date": "2025-12-03T18:40:06.753211",
+    "parlay_size": 3,
+    "theme": "Capitalizing on defensive extremes: fading stars vs elite defenses while backing stars vs soft defenses.",
+    "correlation_pattern": "Dependency on star player availability",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed to generate a result because every targeted player was a scratch (DNP), rendering the statistical analysis irrelevant.",
+    "correction": "Wait for confirmed starting lineups and official injury reports before placing player prop parlays to ensure participation.",
+    "context": {
+      "legs": [
+        {
+          "player": "Cade Cunningham",
+          "prop": "POINTS",
+          "line": 27.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Cade Cunningham",
+          "prop": "ASSISTS",
+          "line": 9.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Jalen Brunson",
+          "prop": "POINTS",
+          "line": 28.0,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203184835",
+    "date": "2025-12-03T18:48:35.479787",
+    "parlay_size": 3,
+    "theme": "Combining team synergy with a defensive mismatch fade.",
+    "correlation_pattern": "Uncorrelated Variance",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay collapsed because the primary scoring anchor significantly underperformed his total, while the intended defensive fade leg resulted in a void (DNP), leaving the bet exposed to single-player variance without the intended odds boost.",
+    "correction": "Avoid including players with questionable injury status in parlays even for 'Under' bets, as a DNP voids the leg and reduces the payout structure while retaining the risk of the other legs.",
+    "context": {
+      "legs": [
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 28.43,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 19.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Dillon Brooks",
+          "prop": "ASSISTS",
+          "line": 1.88,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 21.67,
+          "prediction": "UNDER",
+          "confidence": 6,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203184835",
+    "date": "2025-12-03T18:48:35.479787",
+    "parlay_size": 3,
+    "theme": "Combining team synergy with a defensive mismatch fade.",
+    "correlation_pattern": "Uncorrelated Variance",
+    "outcome": "LOSS",
+    "legs_hit": 1,
+    "total_legs": 3,
+    "insight": "The parlay collapsed because the primary scoring anchor significantly underperformed his total, while the intended defensive fade leg resulted in a void (DNP), leaving the bet exposed to single-player variance without the intended odds boost.",
+    "correction": "Avoid including players with questionable injury status in parlays even for 'Under' bets, as a DNP voids the leg and reduces the payout structure while retaining the risk of the other legs.",
+    "context": {
+      "legs": [
+        {
+          "player": "Devin Booker",
+          "prop": "POINTS",
+          "line": 28.43,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 19.0,
+          "actual_outcome": "UNDER",
+          "hit": false
+        },
+        {
+          "player": "Dillon Brooks",
+          "prop": "ASSISTS",
+          "line": 1.88,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": 4.0,
+          "actual_outcome": "OVER",
+          "hit": true
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 21.67,
+          "prediction": "UNDER",
+          "confidence": 6,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203191648",
+    "date": "2025-12-03T19:16:48.800593",
+    "parlay_size": 2,
+    "theme": "High-confidence floor plays capitalizing on low totals and soft defenses.",
+    "correlation_pattern": "None (Availability Failure)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed to activate because both selected superstars were ruled out (DNP), resulting in voided legs rather than a loss or win.",
+    "correction": "Wait for confirmed starting lineups and check official injury reports prior to locking in bets, especially for star players subject to load management.",
+    "context": {
+      "legs": [
+        {
+          "player": "Paul George",
+          "prop": "ASSISTS",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 21.67,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203191648",
+    "date": "2025-12-03T19:16:48.800593",
+    "parlay_size": 2,
+    "theme": "High-confidence floor plays capitalizing on low totals and soft defenses.",
+    "correlation_pattern": "None (Availability Failure)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 2,
+    "insight": "The parlay failed to activate because both selected superstars were ruled out (DNP), resulting in voided legs rather than a loss or win.",
+    "correction": "Wait for confirmed starting lineups and check official injury reports prior to locking in bets, especially for star players subject to load management.",
+    "context": {
+      "legs": [
+        {
+          "player": "Paul George",
+          "prop": "ASSISTS",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "POINTS",
+          "line": 21.67,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203191710",
+    "date": "2025-12-03T19:17:10.449191",
+    "parlay_size": 3,
+    "theme": "Correlated SGP betting on Embiid's limitations boosting Paul George's volume.",
+    "correlation_pattern": "Teammate Usage Transfer (Usage Displacement)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed to capture any value because the entire thesis relied on the on-court dynamic between two players who both ended up as late scratches (DNP).",
+    "correction": "Wait for official starting lineup confirmation before betting player props on stars with 'Questionable' tags or a history of load management.",
+    "context": {
+      "legs": [
+        {
+          "player": "Joel Embiid",
+          "prop": "POINTS",
+          "line": 17.5,
+          "prediction": "UNDER",
+          "confidence": 6,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paul George",
+          "prop": "REBOUNDS",
+          "line": 3.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paul George",
+          "prop": "ASSISTS",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203191710",
+    "date": "2025-12-03T19:17:10.449191",
+    "parlay_size": 3,
+    "theme": "Correlated SGP betting on Embiid's limitations boosting Paul George's volume.",
+    "correlation_pattern": "Teammate Usage Transfer (Usage Displacement)",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed to capture any value because the entire thesis relied on the on-court dynamic between two players who both ended up as late scratches (DNP).",
+    "correction": "Wait for official starting lineup confirmation before betting player props on stars with 'Questionable' tags or a history of load management.",
+    "context": {
+      "legs": [
+        {
+          "player": "Joel Embiid",
+          "prop": "POINTS",
+          "line": 17.5,
+          "prediction": "UNDER",
+          "confidence": 6,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paul George",
+          "prop": "REBOUNDS",
+          "line": 3.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paul George",
+          "prop": "ASSISTS",
+          "line": 2.5,
+          "prediction": "OVER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203191734",
+    "date": "2025-12-03T19:17:34.262846",
+    "parlay_size": 3,
+    "theme": "Fading specific stats where the defensive matchup or line efficiency suggests value.",
+    "correlation_pattern": "Star Player Availability / Load Management",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed to generate a return because all three selected players were ruled out (DNP), rendering the legs void.",
+    "correction": "Wait for confirmed starting lineups and official injury reports before locking in bets on star players to avoid late scratches.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 10.85,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "DeMar DeRozan",
+          "prop": "POINTS",
+          "line": 17.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 8.67,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "pcs_20251203191734",
+    "date": "2025-12-03T19:17:34.262846",
+    "parlay_size": 3,
+    "theme": "Fading specific stats where the defensive matchup or line efficiency suggests value.",
+    "correlation_pattern": "Star Player Availability / Load Management",
+    "outcome": "LOSS",
+    "legs_hit": 0,
+    "total_legs": 3,
+    "insight": "The parlay failed to generate a return because all three selected players were ruled out (DNP), rendering the legs void.",
+    "correction": "Wait for confirmed starting lineups and official injury reports before locking in bets on star players to avoid late scratches.",
+    "context": {
+      "legs": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "prop": "REBOUNDS",
+          "line": 10.85,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "DeMar DeRozan",
+          "prop": "POINTS",
+          "line": 17.5,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        },
+        {
+          "player": "Paolo Banchero",
+          "prop": "REBOUNDS",
+          "line": 8.67,
+          "prediction": "UNDER",
+          "confidence": 7,
+          "actual": null,
+          "actual_outcome": "DNP",
+          "hit": false
+        }
+      ]
+    }
+  }
+]
