@@ -25,7 +25,7 @@ A hybrid **Machine Learning + LLM** system for predicting NBA player props (Poin
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This project combines traditional machine learning with Large Language Models (LLMs) to predict NBA player prop outcomes. The system:
 
@@ -45,7 +45,7 @@ This project combines traditional machine learning with Large Language Models (L
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -77,7 +77,7 @@ This project combines traditional machine learning with Large Language Models (L
 
 ---
 
-## ✨ Features
+## Features
 
 ### Feature Engineering (143 Total Features)
 
@@ -97,16 +97,16 @@ This project combines traditional machine learning with Large Language Models (L
 
 ### Key Capabilities
 
-- ⚡ **PySpark** for scalable feature engineering on 1.6M+ game records
-- 🎯 **Prop-specific models** optimized for PTS, REB, AST, 3PM
-- 📊 **Probability calibration** using isotonic regression
-- 🧠 **LLM integration** with Google Gemini for contextual reasoning
-- 🔒 **Zero data leakage** design (see [Data Leakage Prevention](#data-leakage-prevention))
-- 📈 **Comprehensive evaluation** with backtesting support
+- **PySpark** for scalable feature engineering on 1.6M+ game records
+- **Prop-specific models** optimized for PTS, REB, AST, 3PM
+- **Probability calibration** using isotonic regression
+- **LLM integration** with Google Gemini for contextual reasoning
+- **Zero data leakage** design (see [Data Leakage Prevention](#data-leakage-prevention))
+- **Comprehensive evaluation** with backtesting support
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -161,7 +161,7 @@ kaggle_data/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Step 1: Set Up API Keys
 
@@ -253,7 +253,7 @@ python tests/test_data_leakage.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 nba-player-prop-analyst/
@@ -312,7 +312,7 @@ logs/                          # Runtime logs
 
 ---
 
-## 📊 Data Pipeline
+## Data Pipeline
 
 ### 1. Source Data (Kaggle)
 
@@ -352,7 +352,7 @@ response = requests.get(
 
 ---
 
-## 🤖 ML Models
+## ML Models
 
 ### Architecture
 
@@ -396,7 +396,7 @@ calibrated_prob = calibrator.predict(raw_prob)
 
 ---
 
-## 🔒 Data Leakage Prevention
+## Data Leakage Prevention
 
 **Data leakage** is the #1 killer of ML models in production. This system implements multiple safeguards:
 
@@ -438,7 +438,7 @@ python tests/test_data_leakage.py
 
 ---
 
-## 🔌 API Reference
+## API Reference
 
 ### Inference API
 
@@ -489,7 +489,7 @@ metrics = ModelEvaluator.evaluate(
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -514,9 +514,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- [Kaggle NBA Statistics Dataset](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats) by Sumitro Datta
+- [Kaggle NBA Statistics Dataset](https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores) by Eoin A. Moore
 - [The Odds API](https://the-odds-api.com/) for betting lines data
 - [Google Gemini](https://deepmind.google/technologies/gemini/) for LLM capabilities
 - [XGBoost](https://xgboost.readthedocs.io/) and [scikit-learn](https://scikit-learn.org/) teams
